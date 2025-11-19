@@ -1,5 +1,5 @@
-# COSC-40023-Machine-Learning
-This repository contains my work implementing various ML algorithms in both Python and R.
+# COSC-40023-Data-Mining-and-Visualization
+This repository contains my work implementing various machine learning algorithms in both Python and R.
 
 ## Implementations
 
